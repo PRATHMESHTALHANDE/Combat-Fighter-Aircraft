@@ -1,35 +1,35 @@
 # Combat-Fighter-Aircraft
-I have created SQL Analysis project on Combat Fighter Aircraft and Data for aircraft fighter jet collected from ChatGPT.  My Database have 28 metadata for detailed evaluation of fighter jets. This evaluation is for educational purpose and strictly based on the information I got for combat fighter aircraft from ChatGPT. 
+I have created SQL Analysis project on Combat Fighter Aircraft and Data for aircraft fighter jet collected from ChatGPT.  My Database have 28 metadata for detailed evaluation of fighter jets. This evaluation is for educational purpose and strictly based on the information I got for combat fighter aircraft from ChatGPT. In order to fetch result you have to upload excel csv same database in SQL workbench with table name fightjet.
 
 # Meta data for Combat Fighter Aircraft database
-Aircraft Type	
-Name of Jet	
-Manufacturer of Jet	
-Year of Manufacture	
-Max Speed	
-Range in Miles	
-Max Altitude	
-Weapons	
-Crew Size	
-Cost	
-Country of Origin	
-Engine Type	
-Length(ft)	
-Wingspan	
-Combat Range	
-Service Ceiling	
-Introduced	
-Radar Type	
-Radar Range	
-Stealth Technology	
-Ejection System	
-Avionics System	
-Armament	
-Maximum G Force	
-Fuel Capacity	
-Battles Won	
-Fuel Type	
-Generation
+Aircraft Type ,	
+Name of Jet	,
+Manufacturer of Jet	,
+Year of Manufacture	,
+Max Speed ,	
+Range in Miles ,	
+Max Altitude ,	
+Weapons	,
+Crew Size ,	
+Cost ,	
+Country of Origin ,	
+Engine Type	,
+Length(ft) ,	
+Wingspan ,	
+Combat Range ,	
+Service Ceiling	,
+Introduced ,	
+Radar Type ,	
+Radar Range	,
+Stealth Technology ,	
+Ejection System	,
+Avionics System	,
+Armament ,	
+Maximum G Force	,
+Fuel Capacity ,	
+Battles Won	,
+Fuel Type ,	
+Generation.
 
 # Type of Evaluation
 first query for showing database. First 25 query are simple level.
