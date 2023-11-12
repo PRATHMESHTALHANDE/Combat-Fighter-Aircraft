@@ -1,0 +1,33 @@
+AircraftType,NameofJet,ManufacturerofJet,YearofManufacture,MaxSpeed,RangeinMiles,MaxAltitude,Weapons,CrewSize,Cost,CountryofOrigin,EngineType,Length(ft),Wingspan,CombatRange,ServiceCeiling,Introduced,RadarType,RadarRange,StealthTechnology,EjectionSystem,AvionicsSystem,Armament,MaximumGForce,FuelCapacity,BattlesWon,FuelType,Generation
+Fighter,Lockheed,Lockheed Martin Corporation,2005,1500,1200,50000,"Missiles, Guns",1,100,USA,Turbofan,50,35,500,60000,2006,AESA,200,Yes,Martin-Baker,AN/APG-81,"Air-to-Air, Air-to-Ground",9,7000,15,Jet Fuel,5
+Fighter,Sukhoi, Sukhoi,2010,1700,1300,55000,"Missiles, Guns",1,110,Russia,Turbojet,55,42,600,65000,2011,PESA,180,Yes,K-36,N050,"Air-to-Air, Air-to-Ground",9.5,8000,12,Jet Fuel,4.5
+Fighter,Dassault, Dassault Aviation,2012,1600,1400,60000,"Missiles, Guns, Bombs",2,120,France,Turbofan,52,37,550,70000,2013,AESA,190,Yes,ACES II,Thales RBE2 AESA,"Air-to-Air, Air-to-Ground",9.2,6500,10,Jet Fuel,4.5
+Fighter,Boeing,Boeing,2008,1550,1250,52000,"Missiles, Guns",1,95,USA,Turbofan,49,36,480,58000,2009,AESA,210,Yes,ACES II,AN/APG-79,"Air-to-Air, Air-to-Ground",8.8,7200,8,Jet Fuel,4.5
+Fighter,Eurofighter,Eurofighter Jagdflugzeug GmbH,2015,1800,1350,58000,"Missiles, Guns",1,130,Germany,Turbojet,53,39,620,66000,2016,AESA,220,Yes,Martin-Baker,CAPTOR-E AESA,"Air-to-Air, Air-to-Ground",9.7,7800,6,Jet Fuel,4.5
+Fighter,Rafale, Dassault Aviation,2004,1550,1350,50000,"Missiles, Bombs",2,110,France,Turbofan,51,35,550,55000,2005,AESA,200,Yes,Martin-Baker,AN/APG-81,"Air-to-Air, Air-to-Ground",9,7000,10,Jet Fuel,4.5
+Fighter,F-22 Raptor, Lockheed Martin,2006,1700,1850,65000,"Missiles, Guns",1,150,USA,Turbofan,62,44,700,70000,2007,AESA,210,Yes,K-36,N050,"Air-to-Air, Air-to-Ground",9.5,8000,8,Jet Fuel,5
+Fighter,J-20,Chengdu,2011,1700,1200,58000,"Missiles, Guns",1,120,China,Turbofan,54,41,650,66000,2012,PESA,220,Yes,ACES II,Thales RBE2 AESA,"Air-to-Air, Air-to-Ground",9.2,6500,7,Jet Fuel,5
+Fighter,Gripen,Saab,2008,1400,1100,50000,"Missiles, Guns",1,80,Sweden,Turbofan,46,30,450,55000,2009,AESA,190,Yes,ACES II,AN/APG-79,"Air-to-Air, Air-to-Ground",9.5,7200,6,Jet Fuel,4.5
+Fighter,MiG-29,Mikoyan,1982,1450,900,59000,"Missiles, Guns",1,40,Russia,Turbojet,51,36,480,58000,1983,PESA,180,No,Martin-Baker,CAPTOR-E AESA,"Air-to-Air, Air-to-Ground",8.8,6000,3,Jet Fuel,4
+Fighter,F-15 Eagle,McDonnell Douglas,1976,1875,3450,65000,"Missiles, Guns",1,100,USA,Turbofan,63,42,800,70000,1977,AESA,210,Yes,K-36,AN/APG-81,"Air-to-Air, Air-to-Ground",9,7500,5,Jet Fuel,4
+Fighter,Mirage 2000,Dassault Aviation,1984,1452,1300,55775,"Missiles, Guns",1,45,France,Turbojet,51,27,520,59000,1985,PESA,180,No,Martin-Baker,RBE2 AESA,"Air-to-Air, Air-to-Ground",8.8,6800,3,Jet Fuel,4
+Fighter,F-111 Aardvark,General Dynamics,1964,2655,2500,66000,"Missiles, Bombs",2,75,USA,Turbofan,73,63,800,68000,1965,AESA,220,No,ACES II,AN/APG-79,"Air-to-Air, Air-to-Ground",8.5,9000,1,Jet Fuel,3
+Fighter,Su-27,Sukhoi,1985,1553,1850,66000,"Missiles, Guns",1,60,Russia,Turbofan,72,48,680,67000,1986,PESA,190,No,K-36,N050,"Air-to-Air, Air-to-Ground",8.9,8500,2,Jet Fuel,4
+Fighter,F-105 Thunderchief,Republic Aviation,1955,2207,2000,52000,"Missiles, Bombs",1,45,USA,Turbojet,64,34,750,62000,1956,PESA,220,No,Martin-Baker,AN/APG-81,"Air-to-Air, Air-to-Ground",8.3,7000,0,Jet Fuel,2
+Fighter,F-14 Tomcat,Grumman,1970,1544,1600,56000,"Missiles, Guns",2,85,USA,Turbofan,62,64,750,58000,1971,AESA,200,No,ACES II,AN/APG-79,"Air-to-Air, Air-to-Ground",8.6,6800,4,Jet Fuel,4
+Fighter,MiG-21,Mikoyan-Gurevich,1955,1385,800,57000,"Missiles, Guns",1,15,Russia,Turbojet,51,23,400,62000,1956,PESA,180,No,Martin-Baker,RBE2 AESA,"Air-to-Air, Air-to-Ground",8.2,6000,2,Jet Fuel,2
+Fighter,F-104 Starfighter,Lockheed Martin,1958,2335,1200,59000,"Missiles, Guns",1,5,USA,Turbojet,54,22,400,60000,1959,AESA,190,No,K-36,AN/APG-81,"Air-to-Air, Air-to-Ground",8.4,6500,0,Jet Fuel,3
+Fighter,F-86 Sabre,North American Aviation,1947,687,700,48000,Guns,1,120,USA,Turbojet,37,37,300,49600,1948,PESA,160,No,Martin-Baker,Thales RBE2 AESA,"Air-to-Air, Air-to-Ground",8,5500,3,Jet Fuel,1
+Fighter,F-8 Crusader,Vought,1955,1037,1200,50000,"Missiles, Guns",1,7,USA,Turbojet,55,35,500,58000,1956,AESA,220,No,K-36,AN/APG-79,"Air-to-Air, Air-to-Ground",8.2,7000,1,Jet Fuel,2
+Fighter,Su-35 Sukhoi,Sukhoi ,1988,1550,2220,59055,"Missiles, Guns",1,40,Russia,Turbojet,72.1,50.2,745,59100,2011,PESA,250,Yes,K-36,N035,"Air-to-Air, Air-to-Ground",9,31940,7,Jet-A,4
+Fighter,JF-17 ThunderCAC/PAC,Chengdu,2007,1391,1135,55000,"Missiles, Guns",1,25,Pakistan,Turbofan,49.5,32.83,540,55000,2007,PESA,150,No,Martin-Baker,KLJ-7 AESA,"Air-to-Air, Air-to-Ground",8.5,18498,0,JP-8,4
+Fighter,Saab Draken,Saab,1955,1430,1200,65600,"Missiles, Guns",1,1,Sweden,Turbojet,50.5,29.5,500,65000,1960,AI,150,No,Martin-Baker,Various,Air-to-Air,7.33,6000,0,Jet-A,2
+Fighter,MiG-31,Mikoyan,1981,1860,1400,67900,"Missiles, Guns",2,2,Russia,Turbofan,72.1,41.2,300,67000,1981,PESA,280,No,Zvezda K-36,RP-31 Foxhound,Air-to-Air,5,7000,0,Jet-A,4
+Fighter,Chengdu J-10,Chengdu,2002,1300,1600,60039,"Missiles, Guns",1,96,China,Turbofan,51.83,31.17,400,60039,2005,AESA,150,No,Martin-Baker,JL-10,"Air-to-Air, Air-to-Ground",9,8000,0,Jet-A,4
+Fighter,Mitsubishi F-2,Mitsubishi,2000,1881,2220,59055,"Missiles, Guns",1,86,Japan,Turbofan,63.92,36.42,435,59055,2000,AESA,200,No,Martin-Baker,J/APG-1 AESA,"Air-to-Air, Air-to-Ground",9,8000,0,Jet-A,4
+Fighter,HAL Tejas,HAL,2001,1370,1560,53000,"Missiles, Guns",1,60,India,Turbofan,46.3,26.3,300,53000,2016,AESA,180,No,Martin-Baker,Elta EL/M-2032,"Air-to-Air, Air-to-Ground",8.5,7500,0,Jet-A,4
+Fighter,B-2 Spirit (Stealth Bomber),Northrop Grumman,1989,630,6000,50000,"Bombs, Cruise Missiles",2,400,USA,Turbofan,69,172,"6,000",50000,1997,AESA,400,Yes,ACES II,Highly Classified,Air-to-Ground,9,9000,0,JP-8,5
+Fighter,IAI Kfir,Israel Aircraft Industries,1970,1388,1100,55000,"Missiles, Guns",1,10,Israel,Turbojet,55.58,27.33,300,55000,1975,PESA,150,No,Martin-Baker,Elta EL/M-2032,"Air-to-Air, Air-to-Ground",8,8500,0,Jet-A,3
+Fighter,Shenyang J-11,Shenyang,1998,2327,1864,65000,"Missiles, Guns",1,65,China,Turbofan,72,45.1,620,65000,2007,PESA,300,No,Martin-Baker,KLJ-7 AESA,"Air-to-Air, Air-to-Ground",9,9000,0,Jet-A,4
+Fighter,F-117 Nighthawk,Lockheed Martin,1981,684,930,43000,Bombs,1,75,USA,Turbofan,65.1,43.4,200,43000,1983,PESA,300,Yes,NA,Highly Classified,Air-to-Ground,8,8500,0,JP-8,3
+Fighter,Su-47 Berkut,Sukhoi,1997,1560,2300,65617,"Missiles, Guns",1,95,Russia,Turbofan,74.8,54.4,"3,500",65617,2002,PESA,300,Yes,K-36,NA,"Air-to-Air, Air-to-Ground",9,9000,0,Jet-A,4
